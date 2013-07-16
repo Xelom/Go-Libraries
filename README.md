@@ -23,3 +23,6 @@
       + [redis.go](https://github.com/hoisie/redis.go) Powerful Redis client library. By Michael Hoisie.
       + [Go-Redis](http://github.com/alphazero/Go-Redis) Client and Connectors for Redis' key-value store. By Joubin Houshyar (aka alphazero).
       + [godis](https://github.com/simonz05/godis) Another Redis client. By Simon Zimmermann.
++ **Memcache**
+    + [gomemcache](https://github.com/bradfitz/gomemcache/) Memcached client library. By Brad Fitzpatrick (the original author of memcache!).
+    + [gomemcache](http://github.com/kklis/gomemcache) Another memcache client implemented in Go. By Krzysztof Kliś (aka kklis).
