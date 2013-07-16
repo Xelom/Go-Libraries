@@ -43,6 +43,16 @@
     + [goquery](https://github.com/PuerkitoBio/goquery) Another jQuery-like engine for HTML handling. By Martin Angers.
     + [goproxy](https://github.com/elazarl/goproxy) Customizable HTTP proxy library. By Elazar Leibovich.
     + [purell](https://github.com/PuerkitoBio/purell) Tiny library to normalize URLs. By Martin Angers.
++ **Web Frameworks**
+    + [Revel](http://robfig.github.io/revel) Revel web framework. By Rob Figueiredo.
+    + [pat](https://github.com/bmizerany/pat) Sinatra style pattern muxer for Go’s net/http library, by the author of Sinatra. By Blake Mizerany.
+    + [mango](https://github.com/paulbellamy/mango) Modular web-application framework inspired by Rack and PEP333. By Paul Bellamy.
+    + [web.go](http://github.com/hoisie/web.go) A simple framework to write webapps in Go. By Michael Hoisie.
+    + [Goldorak.Go](http://github.com/nono/Goldorak.Go) A Go web miniframework built using mustache.go, web.go and Go-Redis. By Bruno Michel.
+    + [goweb](http://code.google.com/p/goweb/) RESTful and lightweight wrapper framework around the stdlib http package. By Mat Ryer.
+    + [wfdr](https://github.com/crazy2be/wfdr) Another simple web framework. By crazy2be.
+    + [go-webproject](https://github.com/scyth/go-webproject) Easy to use small framework for web programming in Go. By Zeljko Tomic.
+    + [Gorilla](http://gorilla-web.appspot.com/) Gorilla is a minimalist web toolkit built on top of the stdlib Go http package. By Rodrigo Moraes.
 + **Memcache**
     + [gomemcache](https://github.com/bradfitz/gomemcache/) Memcached client library. By Brad Fitzpatrick (the original author of memcache!).
     + [gomemcache](http://github.com/kklis/gomemcache) Another memcache client implemented in Go. By Krzysztof Kliś (aka kklis).
