@@ -26,3 +26,7 @@
 + **Memcache**
     + [gomemcache](https://github.com/bradfitz/gomemcache/) Memcached client library. By Brad Fitzpatrick (the original author of memcache!).
     + [gomemcache](http://github.com/kklis/gomemcache) Another memcache client implemented in Go. By Krzysztof Kliś (aka kklis).
++ **Storage and File Systems**
+    + [govt](http://code.google.com/p/govt/) Client and server implementations of the Venti content-addressable-storage protocol. By Latchesar Ionkov.
+    + [go-fuse](https://github.com/hanwen/go-fuse) Pure Go library to build FUSE file systems. By Han-Wen Nienhuys.
+    + [fsnotify](https://github.com/howeyc/fsnotify/) Cross platform file system change notification library. By Chris Howey.
