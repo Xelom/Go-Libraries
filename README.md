@@ -42,3 +42,7 @@
 + **Compression**
     + [snappy-go](http://code.google.com/p/snappy-go/) Implmentation of the Snappy compression format. By Nigel Tao and the rest of the Go team at Google.
     + [go-smaz](https://github.com/cespare/go-smaz) Implementation of the smaz compression format for short strings. By Caleb Spare.
++ **S-Expressions Parsers**
+    + [sexp](https://github.com/feyeleanor/sexp) An S-Expression library for Go. By Eleanor McHugh.
+    + [gsx](https://github.com/jteeuwen/gsx) A configurable S-Expressions parser. By jimt.
+    + [gosexp](https://github.com/cthom06/gosexp) Simple S-Expression parser. By Corey Thomasson.
