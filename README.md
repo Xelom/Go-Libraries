@@ -30,3 +30,12 @@
     + [govt](http://code.google.com/p/govt/) Client and server implementations of the Venti content-addressable-storage protocol. By Latchesar Ionkov.
     + [go-fuse](https://github.com/hanwen/go-fuse) Pure Go library to build FUSE file systems. By Han-Wen Nienhuys.
     + [fsnotify](https://github.com/howeyc/fsnotify/) Cross platform file system change notification library. By Chris Howey.
++ **File Formats**
+    + [gocsv](http://code.google.com/p/gocsv/) Library to parse and generate CSV (Comma-Separated Values) files. By consalus.
+    + [golang-mime-multipart](http://github.com/bradfitz/golang-mime-multipart) MIME multipart parser. By Brad Fitzpatrick.
+    + [mimeparse](http://code.google.com/p/mimeparse/) Simple library to handle mime-types. By Joe Gregorio.
+    + [go-libGeoIP](https://github.com/nranchev/go-libGeoIP) Library to access Maxmind GeoIP database. By Nikola Ranchev.
+    + [asn1-ber](https://github.com/mmitton/asn1-ber) Library for ASN1 BER encoding and decoding. By Michael Mitton.
+    + [marc21](https://gitorious.org/marc21-go/marc21) Library to read and write MARC21 bibliographic catalogue records. Maintained by Dan Scott.
+    + [xlsx](https://github.com/tealeg/xlsx) Library to read Microsoft Excel xlsx files. By Geoff Teale.
+    + [go-simplejson](https://github.com/bitly/go-simplejson) Package to interact with arbitrary JSON. About bitly.
