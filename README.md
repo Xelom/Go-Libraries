@@ -23,6 +23,26 @@
       + [redis.go](https://github.com/hoisie/redis.go) Powerful Redis client library. By Michael Hoisie.
       + [Go-Redis](http://github.com/alphazero/Go-Redis) Client and Connectors for Redis' key-value store. By Joubin Houshyar (aka alphazero).
       + [godis](https://github.com/simonz05/godis) Another Redis client. By Simon Zimmermann.
++ **Web**
+    + [fcgigo](http://github.com/jldailey/fcgigo) A FastCGI implementation in Go. By Jesse Dailey.
+    + [gofastcgi](https://launchpad.net/~ericmoritz/+junk/gofastcgi) by Eric Moritz.
+    + [cgi.go](hhttps://github.com/nebukadnezzar/cgi.go) A simple ‘plain-old’ CGI library (Probably obsolete now that there is CGI support in Go’s standard HTTP library.) By nebukadnezzar.
+    + [go-pkg-rss](http://github.com/jteeuwen/go-pkg-rss) A package to read RSS and Atom feeds, providing a caching mechanism that adheres to the feed specs. By Jim Teeuwen.
+    + [godom](http://code.google.com/p/godom/) A small library that implements a very small, non-compliant subset of the W3C DOM Core. By Jeff Schiller (aka codedread) and metaphorically.
+    + [bwl](http://github.com/bobappleyard/bwl) (“Bob’s Wonderful Go Libraries”) – A set of libraries to help build web sites in Go. By Bob Appleyard.
+    + [httplib.go](http://github.com/hoisie/httplib.go) ‘Low level’ client HTTP library that provides keep-alive connections and generic requests. By Michael Hoisie.
+    + [http_digest.go](https://bitbucket.org/taruti/http_digest.go/wiki/Home) Implementation of HTTP’s Digest Auth. By Taru Karttunen.
+    + [go-socket.io](https://github.com/madari/go-socket.io) Backend implementation of the socket.io web-browser transport transport abstraction. By Jukka-Pekka Kekkonen.
+    + [goautoneg](https://bitbucket.org/ww/goautoneg) HTTP Content-Type Negotiation, match the Accept header against MIME types. By the Open Knowledge Foundation.
+    + [pusher.go](http://gopkgdoc.appspot.com/pkg/github.com/madari/pusher.go) HTTP Server Push library conforming to the Basic HTTP Push Relay Protocol. By Jukka-Pekka Kekkonen.
+    + [seshcookie](https://github.com/bpowers/seshcookie) A web session library inspired by Beaker. By Bobby Powers.
+    + [wedge](https://github.com/AeroNotix/wedge) Simple package to help cut down on boilerplate code when writing webapps. By Aaron France.
+    + [m2go](https://github.com/araddon/m2go) Mongrel2 Handler for Go. By Aaron Raddon.
+    + [gomesh](https://github.com/tuxychandru/gomesh) Simple HTML decoration library. By Chandra Sekar S.
+    + [goquery](https://github.com/opesun/goquery) jQuery style selector engine for HTML documents. By Dobronszki János.
+    + [goquery](https://github.com/PuerkitoBio/goquery) Another jQuery-like engine for HTML handling. By Martin Angers.
+    + [goproxy](https://github.com/elazarl/goproxy) Customizable HTTP proxy library. By Elazar Leibovich.
+    + [purell](https://github.com/PuerkitoBio/purell) Tiny library to normalize URLs. By Martin Angers.
 + **Memcache**
     + [gomemcache](https://github.com/bradfitz/gomemcache/) Memcached client library. By Brad Fitzpatrick (the original author of memcache!).
     + [gomemcache](http://github.com/kklis/gomemcache) Another memcache client implemented in Go. By Krzysztof Kliś (aka kklis).
