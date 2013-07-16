@@ -39,3 +39,6 @@
     + [marc21](https://gitorious.org/marc21-go/marc21) Library to read and write MARC21 bibliographic catalogue records. Maintained by Dan Scott.
     + [xlsx](https://github.com/tealeg/xlsx) Library to read Microsoft Excel xlsx files. By Geoff Teale.
     + [go-simplejson](https://github.com/bitly/go-simplejson) Package to interact with arbitrary JSON. About bitly.
++ **Compression**
+    + [snappy-go](http://code.google.com/p/snappy-go/) Implmentation of the Snappy compression format. By Nigel Tao and the rest of the Go team at Google.
+    + [go-smaz](https://github.com/cespare/go-smaz) Implementation of the smaz compression format for short strings. By Caleb Spare.
