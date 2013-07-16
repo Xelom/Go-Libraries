@@ -46,3 +46,7 @@
     + [sexp](https://github.com/feyeleanor/sexp) An S-Expression library for Go. By Eleanor McHugh.
     + [gsx](https://github.com/jteeuwen/gsx) A configurable S-Expressions parser. By jimt.
     + [gosexp](https://github.com/cthom06/gosexp) Simple S-Expression parser. By Corey Thomasson.
++ **YAML Parsers**
+    + [yaml](https://bitbucket.org/zombiezen/yaml) Parser for YAML 1.2. By Ross Light.
+    + [goyaml](http://code.google.com/p/goyaml/) Pure Go YAML parser based on LibYAML. By rlight2.
+    + [go-gypsy](https://github.com/kylelemons/go-gypsy) Parser for a simplified subset of YAML. By Kyle Lemons.
