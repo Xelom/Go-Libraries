@@ -80,13 +80,13 @@
     + [yaml](https://bitbucket.org/zombiezen/yaml) Parser for YAML 1.2. By Ross Light.
     + [goyaml](http://code.google.com/p/goyaml/) Pure Go YAML parser based on LibYAML. By rlight2.
     + [go-gypsy](https://github.com/kylelemons/go-gypsy) Parser for a simplified subset of YAML. By Kyle Lemons.
-+**Web Sockets**
++ **Web Sockets**
     + [Rocket](https://github.com/nu7hatch/webrocket) Very fast and reliable WebSockets server/framework/library. By Chris Kowalik.
-+**Templating**
++ **Templating**
     + [mustache.go](http://github.com/hoisie/mustache.go) A Go implementation of the Mustache template language. By Michael Hoisie.
     + [kasia.go](https://github.com/ziutek/kasia.go) Implementation of the Kasia text templating system. By Michał Derkacz.
     + [neste](https://github.com/fzzbt/neste) Extended version of Go’s template package for generating textual output from nested templates. By Juhani Ahman.
-+**Web Services and Clients for Web APIs**
++ **Web Services and Clients for Web APIs**
     + [go-flickr](https://github.com/mncaudill/go-flickr) A wrapper for Flickr’s WEB API. By Nolan Caudill of Flickr.
     + [go-flickr](http://gitorious.org/go-flickr/) An older client lib for the flickr API. By Frederic Gobry.
     + [go-twitter-oauth](http://github.com/montsamu/go-twitter-oauth) A simple Twitter (and supporting OAuth code) client for the Go programming language by Samuel Montgomery-Blinn.
@@ -101,11 +101,11 @@
     + [Dropbox-Go](https://github.com/scottferg/Dropbox-Go) Package to access the Dropbox API. By Scott Ferguson.
     + [gotank](https://github.com/searchify/gotank) Client for the IndexTank API. By Searchify.
     + [go-cloudinary](https://github.com/matm/go-cloudinary) Library (and client) to access the Cloudinary service. By Mathias Monnerville.
-+**OAuth**
++ **OAuth**
     + [gooauth](https://github.com/csmcanarney/gooauth) OAuth 1.0 package. By Calvin McAnarney.
     + [goauth](https://github.com/alloy-d/goauth) Another OAuth 1.0 package. By Adam Lloyd.
     + [twister/oauth](https://github.com/garyburd/twister/tree/master/oauth/) OAuth package including OAuth 2.0 support, this one part of the twister HTTP server. By Gary Burd.
-+**Images and Graphics**
++ **Images and Graphics**
     + [x-go-binding](http://code.google.com/p/x-go-binding/) Go ‘bindings’ to the X11 protocol, equivalent to XCB. Maintained by Nigel Tao and the Go team.
     + [svgo](http://github.com/ajstarks/svgo) A library for generation of SVG vector graphics files. By Anthony Starks.
     + [plotinum](http://code.google.com/p/plotinum/) Library for building and drawing plots. By Ethan Burns.
