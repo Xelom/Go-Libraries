@@ -80,3 +80,5 @@
     + [yaml](https://bitbucket.org/zombiezen/yaml) Parser for YAML 1.2. By Ross Light.
     + [goyaml](http://code.google.com/p/goyaml/) Pure Go YAML parser based on LibYAML. By rlight2.
     + [go-gypsy](https://github.com/kylelemons/go-gypsy) Parser for a simplified subset of YAML. By Kyle Lemons.
++**Web Sockets**
+    + [Rocket](https://github.com/nu7hatch/webrocket) Very fast and reliable WebSockets server/framework/library. By Chris Kowalik.
