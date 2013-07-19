@@ -101,3 +101,7 @@
     + [Dropbox-Go](https://github.com/scottferg/Dropbox-Go) Package to access the Dropbox API. By Scott Ferguson.
     + [gotank](https://github.com/searchify/gotank) Client for the IndexTank API. By Searchify.
     + [go-cloudinary](https://github.com/matm/go-cloudinary) Library (and client) to access the Cloudinary service. By Mathias Monnerville.
++ **OAuth**
+    + [gooauth](https://github.com/csmcanarney/gooauth) OAuth 1.0 package. By Calvin McAnarney.
+    + [goauth](https://github.com/alloy-d/goauth) Another OAuth 1.0 package. By Adam Lloyd.
+    + [twister/oauth](https://github.com/garyburd/twister/tree/master/oauth/) OAuth package including OAuth 2.0 support, this one part of the twister HTTP server. By Gary Burd.
