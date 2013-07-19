@@ -82,3 +82,7 @@
     + [go-gypsy](https://github.com/kylelemons/go-gypsy) Parser for a simplified subset of YAML. By Kyle Lemons.
 +**Web Sockets**
     + [Rocket](https://github.com/nu7hatch/webrocket) Very fast and reliable WebSockets server/framework/library. By Chris Kowalik.
++ **Templating**
+    + [mustache.go](http://github.com/hoisie/mustache.go) A Go implementation of the Mustache template language. By Michael Hoisie.
+    + [kasia.go](https://github.com/ziutek/kasia.go) Implementation of the Kasia text templating system. By Michał Derkacz.
+    + [neste](https://github.com/fzzbt/neste) Extended version of Go’s template package for generating textual output from nested templates. By Juhani Ahman.
