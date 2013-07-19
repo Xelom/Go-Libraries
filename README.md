@@ -86,3 +86,18 @@
     + [mustache.go](http://github.com/hoisie/mustache.go) A Go implementation of the Mustache template language. By Michael Hoisie.
     + [kasia.go](https://github.com/ziutek/kasia.go) Implementation of the Kasia text templating system. By Michał Derkacz.
     + [neste](https://github.com/fzzbt/neste) Extended version of Go’s template package for generating textual output from nested templates. By Juhani Ahman.
++ **Web Services and Clients for Web APIs**
+    + [go-flickr](https://github.com/mncaudill/go-flickr) A wrapper for Flickr’s WEB API. By Nolan Caudill of Flickr.
+    + [go-flickr](http://gitorious.org/go-flickr/) An older client lib for the flickr API. By Frederic Gobry.
+    + [go-twitter-oauth](http://github.com/montsamu/go-twitter-oauth) A simple Twitter (and supporting OAuth code) client for the Go programming language by Samuel Montgomery-Blinn.
+    + [twitterstream](http://github.com/hoisie/twitterstream) Client library for Twitter’s streaming API. By Michael Hoisie.
+    + [go-twitter](http://github.com/jb55/go-twitter) Another twitter lib in Go, this one by Bill Casarin.
+    + [get2ch-go](http://github.com/tanaton/get2ch-go) A library to access the 2channel Japanese web bulletin board. By tanaton.
+    + [go-pkg-lastfm](http://github.com/jteeuwen/go-pkg-lastfm) A library to access the entire Last.fm 2.0 webservice API, including the authenticated services. By Jim Teeuwen.
+    + [goamz](https://wiki.ubuntu.com/goamz) Client library to access Amazon Web Services. By Canonical’s Ensemble project.
+    + [go-ghissues](https://github.com/justinlilly/go-ghissues) Client lib for Github’s Issues API. By Justin Lilly.
+    + [go-dealmap](https://github.com/ancientlore/go-dealmap) Library to access the DealMap API. By Michael Lore.
+    + [go-tripit](https://github.com/ancientlore/go-tripit) Library to access the TripIt API. By Michael Lore.
+    + [Dropbox-Go](https://github.com/scottferg/Dropbox-Go) Package to access the Dropbox API. By Scott Ferguson.
+    + [gotank](https://github.com/searchify/gotank) Client for the IndexTank API. By Searchify.
+    + [go-cloudinary](https://github.com/matm/go-cloudinary) Library (and client) to access the Cloudinary service. By Mathias Monnerville.
